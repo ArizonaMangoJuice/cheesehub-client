@@ -37,3 +37,29 @@ Standard/Thinkful-style
 
 ### Desktop Dashboard
 ![alt text](https://lh5.googleusercontent.com/z8kf9TRFW1xMIvQXN0uzDmRRGvEhK4T1vqEbuBD5j08LLZMeix-glgIus1b7Vxnlt2xZ2D1VwAfmuw=w617-h902-rw)
+
+
+
+## Tech/framework used
+
+<b>Built with</b>
+- [Express](https://expressjs.com/)
+- [React](https://reactjs.org/)
+- [RiotGameApi](https://developer.riotgames.com/)
+- [Travis](https://travis-ci.org)
+
+## Features
+You can take notes on any champion.
+You can save the notes with a user.
+You can look up player stats.
+
+## Code Example
+Show what the library does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
+
+
+## How to use?
+First, you create an account. Login with the account created. Start taking notes. Search a player if you want to see there recent stats.
+
+
+## Credits
+Props to everyone on thinkful for making me use my brain. Props to hiram helping me out with tests. 
