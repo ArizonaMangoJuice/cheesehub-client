@@ -42,6 +42,18 @@ Standard/Thinkful-style
 ## API Documentation
 - https://lol-improver-ci.herokuapp.com/api/static/:champId
     lets you see any static data based of the champId
+- https://lol-improver-ci.herokuapp.com/api/champions/:id
+    lets you update the note from the champion thats from the user
+- https://lol-improver-ci.herokuapp.com/api/players/:name
+    grabs the user and shows the most recent matches
+- https://lol-improver-ci.herokuapp.com/api/champions/
+    grabs all the champions for a current user
+- https://lol-improver-ci.herokuapp.com/api/users/
+    lets you create a user if it doesnt exist
+- https://lol-improver-ci.herokuapp.com/api/login
+    lets you login if you have the valid credentials
+
+    
 
 ## Tech/framework used
 
