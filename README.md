@@ -1,3 +1,21 @@
+## LoL-Improver
+Lol-improver let's you take notes of champs you play and look up player latest match history.
+
+https://focused-nightingale-b297e9.netlify.com/
+
+## Motivation
+I like league of legends. I decided why not just make an app that lets you view player stats and take notes on champions you play.
+
+## Build status
+Build status of continus integration i.e. travis, appveyor etc. Ex. - 
+
+[![Build Status](https://travis-ci.org/ArizonaMangoJuice/lol-improver-server.svg?branch=master)](https://travis-ci.org/ArizonaMangoJuice/lol-improver-server.svg?branch=master)
+
+## Code style
+Standard/Thinkful-style
+
+[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
+ 
 ## Screenshots
 ### Mobile Login
 ![alt text](https://lh6.googleusercontent.com/jNyfOe7bNARAaSjeckh7wIIONNe2bApzvCUQUgxBC5cdYWmYjQ9rz8OnmT96L5e5wDNVisT4CHvPqg=w1920-h955-rw)
@@ -10,3 +28,12 @@
 
 ![alt text](https://lh3.googleusercontent.com/KmjEJnaZJTDG1uyWoyx7VVpiuEOfDOKovBIUEY_SYDJ7f1KhDLuPz8R1pH7r4KzQJhOA4DH53IYc8w=w617-h902-rw)
 ![alt text](https://lh6.googleusercontent.com/r_vYETp-1VzJPnPMi4_NMhDvDCoAyOt_N_ZjojN1ttkV0GVmdy73AXZroWDSVsi3VMkBrXxrbOAqGQ=w617-h902-rw)
+
+### Desktop Landing Page
+![alt text](https://lh6.googleusercontent.com/mlRHpVgtPeRUzJSLZGSEIyE0uDyye0IaVproNj9LTBWExaWAxnTTlfNxYIlCMMBLv-uj0xk4Azkgpw=w617-h902-rw)
+
+### Desktop Register Page
+![alt text](https://lh5.googleusercontent.com/zSajtQpJe6Ftb9fEyIsgw9vvcew2sPKmNjPdNVlPnRKz3vSJLzwrbeqgTFJ0N31omGJ-jF5comIY3w=w617-h902-rw)
+
+### Desktop Dashboard
+![alt text](https://lh5.googleusercontent.com/z8kf9TRFW1xMIvQXN0uzDmRRGvEhK4T1vqEbuBD5j08LLZMeix-glgIus1b7Vxnlt2xZ2D1VwAfmuw=w617-h902-rw)
